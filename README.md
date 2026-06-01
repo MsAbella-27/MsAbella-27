@@ -96,17 +96,51 @@
 
 # Featured Projects
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Enrollment Management System</h3>
+        A Java Swing and MySQL-based system for managing student enrollment, course registration, and academic records.
+      <a href="https://github.com/MsAbella-27/Enrollment-Management-System"> View Repository →</a>
+      </td>
+      <td width="50%">
+      <img src="https://raw.githubusercontent.com/MsAbella-27/Enrollment-Management-System/main/screenshots/WelcomeFrame.png" width="400">
+      </a>
+    </td>
+  </tr>
+</table>
 
-|      Project      | Description                                                    |     Technology     |
-| :---------------: | :------------------------------------------------------------- | :----------------: |
-|  Lost and Found System | Once Lost, Now Found: A Retrieval and Claim Tracking System for Misplaced Items         |    Java  • Figma   |
-|  Yogu Website | A website for small business. | HTML • CSS • Bootstrap |
-|  Enrollment Management System | A system for student to enroll and admin to operate. |    Java • MySQL    |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Enrollment Management System</h3>
+        A Java Swing and MySQL-based system for managing student enrollment, course registration, and academic records.
+      <a href="https://github.com/MsAbella-27/Enrollment-Management-System"> View Repository →</a>
+      </td>
+      <td width="50%">
+      <img src="https://raw.githubusercontent.com/MsAbella-27/Enrollment-Management-System/main/screenshots/WelcomeFrame.png" width="400">
+      </a>
+    </td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Enrollment Management System</h3>
+        A Java Swing and MySQL-based system for managing student enrollment, course registration, and academic records.
+      <a href="https://github.com/MsAbella-27/Enrollment-Management-System"> View Repository →</a>
+      </td>
+      <td width="50%">
+      <img src="https://raw.githubusercontent.com/MsAbella-27/Enrollment-Management-System/main/screenshots/WelcomeFrame.png" width="400">
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
---
+
+---
 # Connect With Me
 
 <div align="center">
