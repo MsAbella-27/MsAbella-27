@@ -106,21 +106,7 @@
 
 </div>
 
-# Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/MsAbella-27/Enrollment-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MsAbella-27&repo=Enrollment-Management-System&theme=rose_pine&hide_border=true"/>
-</a>
-
-<a href="https://github.com/MsAbella-27/Portfolio-Website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MsAbella-27&repo=Portfolio-Website&theme=rose_pine&hide_border=true"/>
-</a>
-
-</div>
----
-
+--
 # Connect With Me
 
 <div align="center">
