@@ -60,21 +60,12 @@
 
 # Technology Stack
 
-<div align="center">
-
+<div align = "center">
+  
 <img src="https://skillicons.dev/icons?i=html,css,java,mysql,bootstrap,figma,git,vscode" />
 
 </div>
-
 <br>
-
-<div align="center">
-
-|         Frontend         | Programming | Database | Design |      Tools     |
-| :----------------------: | :---------: | :------: | :----: | :------------: |
-| HTML<br>CSS<br>Bootstrap |     Java    |   MySQL  |  Figma | Git<br>VS Code |
-
-</div>
 
 ---
 
@@ -82,15 +73,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MsAbella-27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsAbella-27&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MsAbella-27&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MsAbella-27&theme=github_dark" width="100%"/>
 
 </div>
+
+
 
 ---
 
