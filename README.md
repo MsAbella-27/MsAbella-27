@@ -99,12 +99,13 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>Enrollment Management System</h3>
-        A Java Swing and MySQL-based system for managing student enrollment, course registration, and academic records.
-      <a href="https://github.com/MsAbella-27/Enrollment-Management-System"> View Repository →</a>
+      <h3>Once Lost, Now Found: A Retrieval and Claim Tracking System for Misplaced Items </h3>
+        Java-based console Lost and Found System seeks to provide a useful, well-organized, and convenient way to handle misplaced objects in educational settings. The system improves accuracy, efficiency, and convenience by digitizing the reporting and tracking process. It also illustrates basic programming concepts that are applicable in both academic and practical contexts.
+      <br>
+      <a href="https://github.com/MsAbella-27/Lost-And-Found-System"> View Repository →</a>
       </td>
       <td width="50%">
-      <img src="https://raw.githubusercontent.com/MsAbella-27/Enrollment-Management-System/main/screenshots/WelcomeFrame.png" width="400">
+      <img src="https://raw.githubusercontent.com/MsAbella-27/Lost-And-Found-System /main/screenshots/File.png" width="400">
       </a>
     </td>
   </tr>
@@ -114,11 +115,12 @@
   <tr>
     <td width="50%">
       <h3>Enrollment Management System</h3>
-        A Java Swing and MySQL-based system for managing student enrollment, course registration, and academic records.
+        Enrollment System, a digital solution designed to make the enrollment process faster, easier, and more organized. This system allows students to register, select their preferred programs, and manage their enrollment information efficiently. It also helps administrators monitor student records, enrollment statuses, and available program slots in real time. By automating these processes, the system reduces paperwork, minimizes errors, and improves overall enrollment management.
+      <br>
       <a href="https://github.com/MsAbella-27/Enrollment-Management-System"> View Repository →</a>
       </td>
       <td width="50%">
-      <img src="https://raw.githubusercontent.com/MsAbella-27/Enrollment-Management-System/main/screenshots/WelcomeFrame.png" width="400">
+      <img src="https://raw.githubusercontent.com/MsAbella-27/Enrollment-Management-System/main/screenshots/WelcomeFrame.png" width="500">
       </a>
     </td>
   </tr>
@@ -127,12 +129,13 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>Enrollment Management System</h3>
-        A Java Swing and MySQL-based system for managing student enrollment, course registration, and academic records.
-      <a href="https://github.com/MsAbella-27/Enrollment-Management-System"> View Repository →</a>
+      <h3>Yogu Website</h3>
+        Yogu Milktea Business Website is a responsive web application developed using HTML, CSS, and Bootstrap. The project was designed to showcase milktea products, privileges, and business information through a modern and visually appealing interface. It highlights front-end development skills, responsive web design, and effective user experience principles.
+      <br>
+      <a href="https://github.com/MsAbella-27/Yogu-Website"> View Repository →</a>
       </td>
       <td width="50%">
-      <img src="https://raw.githubusercontent.com/MsAbella-27/Enrollment-Management-System/main/screenshots/WelcomeFrame.png" width="400">
+      <img src="https://raw.githubusercontent.com/MsAbella-27/Yogu-Website/main/screenshots/Yogu.png" width="500">
       </a>
     </td>
   </tr>
