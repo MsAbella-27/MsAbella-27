@@ -78,17 +78,17 @@
 
 ---
 
-# GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MsAbella-27&show_icons=true&theme=rose_pine&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MsAbella-27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsAbella-27&layout=compact&theme=rose_pine&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsAbella-27&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=MsAbella-27&theme=rose_pine&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MsAbella-27&theme=tokyonight&hide_border=true" />
 
 </div>
 
